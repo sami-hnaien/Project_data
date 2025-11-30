@@ -1,0 +1,52 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Virtual Environment (Windows) ---
+venv/
+env/
+.venv/
+.virtualenv/
+
+# --- Distribution / Packaging ---
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+
+# --- Logs ---
+*.log
+
+# --- Jupyter Notebook ---
+.ipynb_checkpoints
+
+# --- Environment Variables ---
+*.env
+.env.*
+
+# --- IDE / Editors ---
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# --- OS Files ---
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Mac (if repo also used on mac)
+.DS_Store
+
+# --- Cache / Temporary ---
+.cache/
+tmp/
+temp/
+
+# --- Testing ---
+.tox/
+.coverage
+.pytest_cache/

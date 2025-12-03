@@ -9,6 +9,8 @@
 This project explores how tourism activity influences **GDP per capita** in Tunisia using datasets provided by the **World Bank Open Data** platform.  
 The analysis is performed in a structured Jupyter Notebook that includes data inspection, visualization, and statistical analysis.
 
+![cover image](https://img.shields.io/badge/unimi-blue "Text to show on mouseover")
+
 ---
 
 ## Project Structure

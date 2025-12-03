@@ -124,8 +124,8 @@ class NormalizedGraph:
         """
         Parameters:
             df (str): Pandas dataframe.
-            country (str): name of the column for the x axis
-            y_column (str): name of the column for the y axis
+            col 1 : name of the column for the x axis
+            col 2: name of the column for the y axis
             title (str): Title of the graph
         """
         self.df = df.copy()  # avoid modifying original dataframe
